@@ -7,7 +7,5 @@ export default defineNuxtConfig({
 	colorMode: {
 		preference: "system", // light mode > change "system" to "light", refresh local storage
 	},
-	ui: {
-		icons: ["basil"],
-	},
+	pages: true,
 })

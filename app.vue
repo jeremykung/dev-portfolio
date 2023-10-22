@@ -7,6 +7,9 @@
 			name="input"
 			placeholder="Search..."
 		/>
+		<NuxtLayout>
+			<NuxtPage />
+		</NuxtLayout>
 		<!-- <NuxtWelcome /> -->
 	</div>
 </template>
