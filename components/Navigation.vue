@@ -30,6 +30,7 @@
 				<!-- Content -->
 				<nav class="mx-auto p-4 gap-4 flex flex-col justify-center">
 					<NuxtLink to="/">Home</NuxtLink>
+					<NuxtLink to="/projects">Projects</NuxtLink>
 					<NuxtLink to="/about">About</NuxtLink>
 				</nav>
 
