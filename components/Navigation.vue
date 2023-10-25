@@ -7,7 +7,7 @@
 		<!-- <UButton label="Open" @click="isOpen = true" /> -->
 		<UIcon
 			name="i-heroicons-bars-3"
-			class="text-right p-3 ml-auto my-2 mr-2 block hover:cursor-pointer"
+			class="text-right p-3 ml-auto my-8 mr-8 block hover:cursor-pointer"
 			@click="isOpen = true"
 		/>
 
@@ -31,6 +31,7 @@
 				<nav class="mx-auto p-4 gap-4 flex flex-col justify-center">
 					<NuxtLink to="/">Home</NuxtLink>
 					<NuxtLink to="/projects">Projects</NuxtLink>
+					<NuxtLink to="/blog">Blog</NuxtLink>
 					<NuxtLink to="/about">About</NuxtLink>
 				</nav>
 

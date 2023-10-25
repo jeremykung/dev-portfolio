@@ -2,7 +2,7 @@
 
 <template>
 	<div>
-		<h1>About</h1>
+		<h1 class="mb-8 text-2xl text-center">About</h1>
 	</div>
 </template>
 
